@@ -4,7 +4,7 @@
 import pandas as pd
 
 
-df = pd.read_csv('D:\projects\pandas_tips\lesson_2_Rename_DataFrame\ProductsSold.csv')
+df = pd.read_csv('D:\projects\pandas_lesson\lesson_2_Rename_DataFrame\ProductsSold.csv')
 
 
 print('\n------------------------------------------')
@@ -15,18 +15,18 @@ print(df.head())
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Remove 1 column
 
-# df.drop(
-#     # Remove what?
-#     'star rank',
-#     # Is a row or a column?
-#     axis=1,
-#     # Change original dataframe?
-#     inplace=True
-# )
-#
-# print()
-# print('Remove 1 column')
-# print(df.head())
+df.drop(
+    # Remove what?
+    'star rank',
+    # Is a row or a column?
+    axis=1,
+    # Change original dataframe?
+    inplace=True
+)
+
+print()
+print('Remove 1 column')
+print(df.head())
 
 
 
@@ -52,12 +52,12 @@ print(df.head())
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Remove rows
 
-# df.drop(
-#     [1,3],
-#     axis = 0,
-#     inplace = True
-# )
-#
-# print()
-# print('Remove rows')
-# print(df.head())
+df.drop(
+    [1, 3],
+    axis=0,
+    inplace=True
+)
+
+print()
+print('Remove rows')
+print(df.head())

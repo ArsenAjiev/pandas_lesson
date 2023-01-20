@@ -1,0 +1,27 @@
+Name of Product,Available since,total_sells,star rank,department
+A,"Sep 16, 2018",6966,2.7,Electronics
+B,"Jan 25, 2019",882,3,Movies
+C,"Nov 06, 2018",834,2.6,Kids
+D,"Oct 16, 2018",629,2.8,Fashion
+E,"Sep 30, 2018",354,4.6,Fashion
+F,"Dec 22, 2018",204,4.1,Movies
+G,"Oct 04, 2018",218,3.6,Electronics
+H,"Sep 13, 2018",234,2.7,Electronics
+I,"Dec 07, 2018",99,4.5,Electronics
+J,"Oct 30, 2018",119,3.5,Kids
+K,"Sep 03, 2018",60,5.5,Automotive
+L,"Oct 18, 2018",150,2.2,Home
+M,"Aug 22, 2018",124,2.5,Home
+N,"Dec 15, 2018",74,4.1,Home
+O,"Jan 17, 2019",108,2.6,Automotive
+P,"Aug 28, 2018",118,2,Kids
+Q,"Oct 23, 2018",63,3.6,Electronics
+R,"Aug 01, 2018",121,1.8,Electronics
+S,"Sep 21, 2018",47,4.6,Fashion
+T,"Nov 29, 2018",59,3.6,Movies
+U,"Sep 19, 2018",41,4.6,Games
+V,"Oct 06, 2018",69,2.7,Games
+W,"Mar 02, 2019",65,2.7,Fashion
+X,"Sep 04, 2018",93,1.6,Fashion
+Y,"Nov 20, 2018",60,2.4,Art
+Z,"Jan 11, 2019",48,2.9,Art

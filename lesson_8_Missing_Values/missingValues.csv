@@ -1,0 +1,8 @@
+Animal,Count,Age,Color
+,,,
+Cat,10,,white
+Dog,21,,brown
+Horse,25,5,black
+,4,5,black
+,10,,white
+Cat,4,1,yellow

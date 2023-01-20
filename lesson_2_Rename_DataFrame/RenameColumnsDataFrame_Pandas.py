@@ -2,7 +2,7 @@
 # pip install pandas
 import pandas as pd
 
-filePath = 'D:\projects\pandas_tips\lesson_2_Rename_DataFrame\ProductsSold.csv'
+filePath = 'D:\projects\pandas_lesson\lesson_2_Rename_DataFrame\ProductsSold.csv'
 df = pd.read_csv(filePath)
 
 # options to list the columnss
